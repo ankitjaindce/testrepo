@@ -1,2 +1,1 @@
-assert sum([1, 2, 3]) == 5
-print("done")
+assert sum([1, 2, 3]) == 6
