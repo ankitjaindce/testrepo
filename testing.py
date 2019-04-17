@@ -1,1 +1,1 @@
-assert sum([1, 2, 3]) == 5
+assert sum([1, 2, 3]) == 6
