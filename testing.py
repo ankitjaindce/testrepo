@@ -1,3 +1,3 @@
 assert sum([1, 2, 3]) == 6
-assert True
+assert False
 print("All tests seem to work")
